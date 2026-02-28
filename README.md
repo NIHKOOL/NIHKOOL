@@ -1,4 +1,12 @@
-<head> Do </head>
+<div align="center">
+  <h1> Wattikon Nongnamkhao </h1>
+  <p> Computer Engineering Student </p>
+  <p> Chulalongkorn University </p>
+</div>
+
+
+
+
 
 <!--
 **NIHKOOL/NIHKOOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
