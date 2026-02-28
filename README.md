@@ -1,7 +1,6 @@
 <div align="center">
   <h1> Wattikon Nongnamkhao </h1>
-  <p> Computer Engineering Student </p>
-  <p> Chulalongkorn University </p>
+  <p> Computer Engineering Student | Chulalongkorn University </p>
 </div>
 
 
