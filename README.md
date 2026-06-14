@@ -10,16 +10,16 @@
 
 <p>
   <a href="mailto:wattikorn.nongnamkhao@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" title="Email" alt="Email" height="40" />
   </a>
   <a href="https://github.com/NIHKOOL">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" title="GitHub" alt="GitHub" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/wattikon-nongnamkhao-6a4700389/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" height="40" />
   </a>
-  <a href="INSTAGRAM_URL_HERE">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/lo.hin.ok/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" title="Instagram" alt="Instagram" height="40" />
   </a>
 </p>
 
