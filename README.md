@@ -9,18 +9,10 @@
 </p>
 
 <p>
-  <a href="mailto:wattikorn.nongnamkhao@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" title="Email" alt="Email" height="40" />
-  </a>
-  <a href="https://github.com/NIHKOOL">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" title="GitHub" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/wattikon-nongnamkhao-6a4700389/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://www.instagram.com/lo.hin.ok/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" title="Instagram" alt="Instagram" height="40" />
-  </a>
+  <a href="mailto:wattikorn.nongnamkhao@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" title="Email" alt="Email" height="40" /></a>
+  <a href="https://github.com/NIHKOOL"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" title="GitHub" alt="GitHub" height="40" /></a>
+  <a href="https://www.linkedin.com/in/wattikon-nongnamkhao-6a4700389/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.instagram.com/lo.hin.ok/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" title="Instagram" alt="Instagram" height="40" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20Views&color=0A66C2&style=for-the-badge&abbreviated=true" alt="Profile views" />
