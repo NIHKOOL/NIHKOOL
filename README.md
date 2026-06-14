@@ -52,6 +52,19 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" alt="Figma" height="48" />
 </p>
 
+### Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=fff" title="XGBoost" alt="XGBoost" height="32" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=fff" title="LightGBM" alt="LightGBM" height="32" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=000" title="CatBoost" alt="CatBoost" height="32" />
+  <img src="https://img.shields.io/badge/AutoGluon-4B8BBE?style=for-the-badge&logoColor=fff" title="AutoGluon" alt="AutoGluon" height="32" />
+  <img src="https://img.shields.io/badge/SHAP-1F77B4?style=for-the-badge&logoColor=fff" title="SHAP" alt="SHAP" height="32" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" title="pandas" alt="pandas" height="32" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff" title="Jupyter Notebook" alt="Jupyter Notebook" height="32" />
+  <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=fff" title="IBM SPSS" alt="IBM SPSS" height="32" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=fff" title="Claude Code" alt="Claude Code" height="32" />
+</p>
+
 ### Focus Area
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=fff" title="Cybersecurity" alt="Cybersecurity" height="32" />
