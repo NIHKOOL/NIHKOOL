@@ -47,14 +47,18 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" alt="Python" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java" title="Java" alt="Java" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" title="C++" alt="C++" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" title="HTML5" alt="HTML5" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" title="CSS3" alt="CSS3" height="48" />
 </p>
 
 ### Databases & Tools
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" title="n8n" alt="n8n" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" alt="Git" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" title="Linux" alt="Linux" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" alt="Figma" height="48" />
 </p>
 
 ### Focus Area
