@@ -42,19 +42,11 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Focus Area
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,git,linux,bash,docker&perline=8" alt="Tech stack icons" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/n8n-io/n8n@master/assets/n8n-logo.png" alt="n8n" height="48" />
+</p>
 
 ---
 
