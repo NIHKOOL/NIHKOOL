@@ -10,13 +10,16 @@
 
 <p>
   <a href="mailto:wattikorn.nongnamkhao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/NIHKOOL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/wattikon-nongnamkhao-6a4700389/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="INSTAGRAM_URL_HERE">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -75,9 +78,9 @@
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
 | [Aihack Thailand 2025 — Final Round (LOD Prediction AI)](https://drive.google.com/file/d/1unlrGHaMatQl26h353zUoxBGKAdH9IrM/view) | Commerce Club, AIRA & AIFUL | Dec 2025 |
-| [SOI Asia Online Course — Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) | SOI Asia | Apr 2025 |
-| [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2025 |
-| [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | Apr 2025 |
+| [SOI Asia Online Course — Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) | SOI Asia | Apr 2026 |
+| [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2026 |
+| [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | Apr 2026 |
 
 ---
 
