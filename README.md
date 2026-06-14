@@ -44,18 +44,22 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Languages" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" alt="Python" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" title="Java" alt="Java" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" title="C++" alt="C++" height="48" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,linux" alt="Databases & Tools" height="48" />
-  <img src="https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" title="n8n" alt="n8n" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" alt="Git" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" title="Linux" alt="Linux" height="48" />
 </p>
 
 ### Focus Area
 <p>
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" title="Cybersecurity (Kali Linux)" alt="Cybersecurity" height="48" />
 </p>
 
 ---
