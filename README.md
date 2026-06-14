@@ -63,13 +63,11 @@
 
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
-| _Add your certification_ | _Issuer_ | _Year_ |
+| [Aihack Thailand 2025 — Final Round (LOD Prediction AI)](https://drive.google.com/file/d/1unlrGHaMatQl26h353zUoxBGKAdH9IrM/view) | Commerce Club, AIRA & AIFUL | Dec 2025 |
 
 ---
 
 ## 📌 Featured Projects
-
-> _Pin your best repositories on your profile, then describe the highlights here._
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
