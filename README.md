@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/lo.hin.ok/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" title="Instagram" alt="Instagram" height="40" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20Views&color=0A66C2&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20Views&color=0A66C2&style=flat&abbreviated=true" alt="Profile views" />
 
 </div>
 
