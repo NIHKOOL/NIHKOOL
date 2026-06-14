@@ -15,11 +15,9 @@
   <a href="https://github.com/NIHKOOL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add your LinkedIn when ready:
-  <a href="https://www.linkedin.com/in/your-handle/">
+  <a href="https://www.linkedin.com/in/wattikon-nongnamkhao-6a4700389/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  -->
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -54,15 +52,15 @@
 
 ### Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=fff" title="XGBoost" alt="XGBoost" height="32" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=fff" title="LightGBM" alt="LightGBM" height="32" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=000" title="CatBoost" alt="CatBoost" height="32" />
-  <img src="https://img.shields.io/badge/AutoGluon-4B8BBE?style=for-the-badge&logoColor=fff" title="AutoGluon" alt="AutoGluon" height="32" />
-  <img src="https://img.shields.io/badge/SHAP-1F77B4?style=for-the-badge&logoColor=fff" title="SHAP" alt="SHAP" height="32" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" title="pandas" alt="pandas" height="32" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff" title="Jupyter Notebook" alt="Jupyter Notebook" height="32" />
-  <img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=fff" title="IBM SPSS" alt="IBM SPSS" height="32" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=fff" title="Claude Code" alt="Claude Code" height="32" />
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png" title="CatBoost" alt="CatBoost" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/autogluon/autogluon/master/docs/_static/autogluon.png" title="AutoGluon" alt="AutoGluon" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" title="SHAP" alt="SHAP" height="40" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" title="pandas" alt="pandas" height="40" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" title="Jupyter Notebook" alt="Jupyter Notebook" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/spss.svg" title="IBM SPSS" alt="IBM SPSS" height="40" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anthropic" title="Claude Code" alt="Claude Code" height="40" />
 </p>
 
 ### Focus Area
@@ -77,6 +75,9 @@
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
 | [Aihack Thailand 2025 — Final Round (LOD Prediction AI)](https://drive.google.com/file/d/1unlrGHaMatQl26h353zUoxBGKAdH9IrM/view) | Commerce Club, AIRA & AIFUL | Dec 2025 |
+| [SOI Asia Online Course — Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) | SOI Asia | Apr 2025 |
+| [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2025 |
+| [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | Apr 2025 |
 
 ---
 
