@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=NIHKOOL&label=Profile%20Views&color=0A66C2&style=for-the-badge&abbreviated=true" alt="Profile views" />
 
 </div>
 
