@@ -54,7 +54,7 @@
 
 ### Focus Area
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kali" title="Cybersecurity (Kali Linux)" alt="Cybersecurity" height="48" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=fff" title="Cybersecurity" alt="Cybersecurity" height="32" />
 </p>
 
 ---
