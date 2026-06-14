@@ -42,10 +42,20 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,git,linux,bash,docker&perline=8" alt="Tech stack icons" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/n8n-io/n8n@master/assets/n8n-logo.png" alt="n8n" height="48" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="Languages" height="48" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,linux" alt="Databases & Tools" height="48" />
+  <img src="https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="40" />
+</p>
+
+### Focus Area
+<p>
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" height="40" />
 </p>
 
 ---
