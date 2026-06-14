@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wattikorn Nongnamkhao
+# Wattikon Nongnamkhao
 
 ### 🛡️ Computer Engineering Student · Cybersecurity Enthusiast
 
@@ -89,7 +89,7 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [Project Name](#) | What it does and the problem it solves. | `Python` |
-| [Project Name](#) | What it does and the problem it solves. | `Java` |
+| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
 | [Project Name](#) | What it does and the problem it solves. | `C++` |
 
 ---
