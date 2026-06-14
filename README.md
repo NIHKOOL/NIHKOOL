@@ -88,7 +88,7 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Project Name](#) | What it does and the problem it solves. | `Python` |
+| [Nice-Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | This is my first game in python in with pygame. | `Python` |
 | [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
 | [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Note and Code in course. | `C++` |
 
