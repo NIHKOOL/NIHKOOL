@@ -90,7 +90,7 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 | ------- | ----------- | ---- |
 | [Project Name](#) | What it does and the problem it solves. | `Python` |
 | [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
-| [Project Name](#) | What it does and the problem it solves. | `C++` |
+| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Note and Code in course. | `C++` |
 
 ---
 
