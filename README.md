@@ -28,18 +28,6 @@
 
 ---
 
-## 👋 About Me
-
-I'm a Computer Engineering student at **Chulalongkorn University** with a strong interest in **cybersecurity** and building reliable, well-engineered software. I enjoy understanding how systems work end-to-end — from low-level code to databases and automation — and applying that knowledge to keep systems secure.
-
-- 🔭 **Currently working on:** hands-on cybersecurity projects and CTF-style challenges
-- 🌱 **Currently learning:** offensive & defensive security, secure coding practices
-- 🎯 **Goal:** to grow into a security engineer who builds and protects robust systems
-- 💬 **Ask me about:** Python, Java, C++, databases, and automation
-- 📫 **Reach me at:** wattikorn.nongnamkhao@gmail.com
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -68,17 +56,11 @@ I'm a Computer Engineering student at **Chulalongkorn University** with a strong
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-<div align="center">
-
-![Wattikorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIHKOOL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NIHKOOL&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIHKOOL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+| Certification | Issuer | Year |
+| ------------- | ------ | ---- |
+| _Add your certification_ | _Issuer_ | _Year_ |
 
 ---
 
