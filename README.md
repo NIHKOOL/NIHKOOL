@@ -46,6 +46,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" title="n8n" alt="n8n" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" alt="Git" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" title="Linux" alt="Linux" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" title="Vercel" alt="Vercel" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse" title="Eclipse" alt="Eclipse" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" alt="Figma" height="48" />
 </p>
 
