@@ -52,15 +52,15 @@
 
 ### Machine Learning
 <p>
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png" title="CatBoost" alt="CatBoost" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/autogluon/autogluon/master/docs/_static/autogluon.png" title="AutoGluon" alt="AutoGluon" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" title="SHAP" alt="SHAP" height="40" />&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" title="pandas" alt="pandas" height="40" />&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" title="Jupyter Notebook" alt="Jupyter Notebook" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/spss.svg" title="IBM SPSS" alt="IBM SPSS" height="40" />&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anthropic" title="Claude Code" alt="Claude Code" height="40" />
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" height="48" />
+  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="48" />
+  <img src="https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png" title="CatBoost" alt="CatBoost" height="48" />
+  <img src="https://raw.githubusercontent.com/autogluon/autogluon/master/docs/_static/autogluon.png" title="AutoGluon" alt="AutoGluon" height="48" />
+  <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" title="SHAP" alt="SHAP" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" title="pandas" alt="pandas" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" title="Jupyter Notebook" alt="Jupyter Notebook" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spss.svg" title="IBM SPSS" alt="IBM SPSS" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=anthropic" title="Claude Code" alt="Claude Code" height="48" />
 </p>
 
 ### Focus Area
