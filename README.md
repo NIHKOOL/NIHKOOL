@@ -64,6 +64,7 @@
 | [SOI Asia Online Course — Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | Apr 2026 |
+| [Coursera — Foundations of Cybersecurity](https://coursera.org/share/b0f2c74e9855b8b517aa0073db831c4a) | Google | Jun 2026 |
 
 ---
 
