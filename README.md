@@ -56,6 +56,16 @@
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [Nice-Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | This is my first game in python in with pygame. | `Python` |
+| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
+| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Note and Code in course. | `C++` |
+
+---
+
 ## 📜 Certifications
 
 | Certification | Issuer | Year |
@@ -65,16 +75,6 @@
 | [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | May 2026 |
 | [Coursera — Foundations of Cybersecurity](https://coursera.org/share/b0f2c74e9855b8b517aa0073db831c4a) | Google | Jun 2026 |
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Nice-Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | This is my first game in python in with pygame. | `Python` |
-| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
-| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Note and Code in course. | `C++` |
 
 ---
 
