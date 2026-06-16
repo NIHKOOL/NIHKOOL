@@ -60,9 +60,9 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Nice-Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | This is my first game in python in with pygame. | `Python` |
-| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | 2D-OOP Adventure game. | `Java` |
-| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Note and Code in course. | `C++` |
+| [Nice-Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | A 2D arcade game built with Pygame — my introduction to game loops and sprite handling. | `Python` |
+| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | A 2D adventure game in Java, applying OOP design (inheritance, polymorphism) for entities and game state. | `Java` |
+| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Implementations and notes of core algorithms & data structures from coursework. | `C++` |
 
 ---
 
