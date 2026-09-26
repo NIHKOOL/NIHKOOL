@@ -45,7 +45,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" alt="Figma" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" title="pandas" alt="pandas" height="48" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" title="Jupyter Notebook" alt="Jupyter Notebook" height="48" />
-  <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" title="SHAP" alt="SHAP" height="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/spss.svg" title="IBM SPSS" alt="IBM SPSS" height="48" />
 </p>
 
@@ -76,6 +75,8 @@
 | [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | May 2026 |
 | [Coursera — Foundations of Cybersecurity](https://coursera.org/share/b0f2c74e9855b8b517aa0073db831c4a) | Google | Jun 2026 |
+| [Coursera — Manage Security Risks](https://coursera.org/share/d76fb8febca841139ed27602e77db71c) | Google | July 2026 |
+| [Coursera — Networks and Network Security](https://coursera.org/share/6ecd4fd75d075eecc37a9bd0199171f2) | Google | Sep 2026 |
 
 ---
 
