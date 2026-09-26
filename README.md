@@ -2,7 +2,7 @@
 
 # Wattikon Nongnamkhao
 
-### 🛡️ Computer Engineering Student · Cybersecurity Enthusiast
+### Computer Engineering Student · Cybersecurity Enthusiast
 
 <p>
   <em>Computer Engineering @ Chulalongkorn University</em>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -56,7 +56,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
@@ -67,7 +67,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
