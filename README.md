@@ -57,10 +57,8 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Nice&#8209;Knight](https://github.com/NIHKOOL/NICE-KNIGHT) | A 2D arcade game built with Pygame — Game loops and sprite handling. | `Python` |
 | [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | A 2D adventure game in Java, applying OOP design (inheritance, polymorphism) for entities and game state. | `Java` |
-| [Algorithm](https://github.com/NIHKOOL/Algorithm-Design-Code) | Implementations and notes of core algorithms & data structures from coursework. | `C++` |
-| [Poker-Odds](https://github.com/NIHKOOL/Felt-Odds---Poker-Odds-Calculator) | Calculate the odds of winning in Poker. | `Html` |
+| [Sentinela](https://github.com/NIHKOOL/Sentinela) | My Original SIEM Tool. (Ongoing) | `Python` |
 
 ---
 
@@ -68,7 +66,6 @@
 
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
-| [Aihack Thailand 2025 — Final Round (LOD Prediction AI)](https://drive.google.com/file/d/1unlrGHaMatQl26h353zUoxBGKAdH9IrM/view) | Commerce Club, AIRA & AIFUL | Dec 2025 |
 | [SOI Asia Online Course — Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) | SOI Asia | Apr 2026 |
 | [SOI Asia Online Course — Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | May 2026 |
