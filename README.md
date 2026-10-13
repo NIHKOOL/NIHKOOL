@@ -67,7 +67,7 @@
 | Certification | Issuer | Year |
 | ------------- | ------ | ---- |
 | **SOI Asia Online Course** — [Understanding the Internet](https://inxignia.soi.asia/public/assertions/2VMt742kQke1HmAH4-fbhQ) · [Operating the Internet](https://inxignia.soi.asia/public/assertions/AUzKTp_TQI66ztAQiz-1eg) · [Workshop](https://inxignia.soi.asia/public/assertions/TGMEbmWSQEC67p5CBaKkMg) | SOI Asia | Apr – May 2026 |
-| **Coursera** — [Foundations of Cybersecurity](https://coursera.org/share/b0f2c74e9855b8b517aa0073db831c4a) · [Manage Security Risks](https://coursera.org/share/d76fb8febca841139ed27602e77db71c) · [Networks and Network Security](https://coursera.org/share/6ecd4fd75d075eecc37a9bd0199171f2) · [Linux and SQL](https://coursera.org/share/aa1f1ea9846e08487e8c758c2370e6b5) | Google | Jun – Oct 2026 |
+| **Google Cybersecurity Professional Certificate** — [Foundations of Cybersecurity](https://coursera.org/share/b0f2c74e9855b8b517aa0073db831c4a) · [Manage Security Risks](https://coursera.org/share/d76fb8febca841139ed27602e77db71c) · [Networks and Network Security](https://coursera.org/share/6ecd4fd75d075eecc37a9bd0199171f2) · [Linux and SQL](https://coursera.org/share/aa1f1ea9846e08487e8c758c2370e6b5) | Google | Jun – Oct 2026 |
 
 ---
 
