@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" alt="pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff" alt="Jupyter" />
   <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge" alt="IBM SPSS" />
+  <img src="https://img.shields.io/badge/YARA-1F2937?style=for-the-badge" alt="YARA" />
+  <img src="https://img.shields.io/badge/LOKI-7C3AED?style=for-the-badge" alt="LOKI" />
 </p>
 
 ### Focus Area
