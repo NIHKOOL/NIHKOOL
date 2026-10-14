@@ -23,32 +23,32 @@
 
 ### Languages
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" alt="Python" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" title="Java" alt="Java" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" title="C++" alt="C++" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" title="HTML5" alt="HTML5" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" title="CSS3" alt="CSS3" height="48" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=fff" alt="CSS" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" title="n8n" alt="n8n" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" alt="Git" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" title="Linux" alt="Linux" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" title="Vercel" alt="Vercel" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse" title="Eclipse" alt="Eclipse" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" alt="Figma" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" title="pandas" alt="pandas" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" title="Jupyter Notebook" alt="Jupyter Notebook" height="48" />
-  <img src="https://cdn.worldvectorlogo.com/logos/spss.svg" title="IBM SPSS" alt="IBM SPSS" height="48" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff" alt="n8n" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=fff" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" alt="pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge" alt="IBM SPSS" />
 </p>
 
 ### Focus Area
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=fff" title="Cybersecurity" alt="Cybersecurity" height="32" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=fff" alt="Cybersecurity" />
 </p>
 
 ---
