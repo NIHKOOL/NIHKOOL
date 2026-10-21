@@ -59,9 +59,9 @@
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | A 2D adventure game in Java, applying OOP design (inheritance, polymorphism) for entities and game state. | `Java` |
-| [Sentinela](https://github.com/NIHKOOL/Sentinela) | Sentinela SOC Simulator. (Ongoing) | `Python` |
-| [Mini_Projects](https://github.com/NIHKOOL/mini-projects) | A collection of my mini projects | `Don't care` |
+| [Jolepopo](https://github.com/NIHKOOL/Jolepopo) | A 2D adventure game in Java, applying OOP design (inheritance, polymorphism) for entities and game state | `Java` |
+| [Sentinela](https://github.com/NIHKOOL/Sentinela) | Sentinela SOC Simulator | `Python` |
+| [Mini_Projects](https://github.com/NIHKOOL/mini-projects) | A collection of my mini projects | `various` |
 ---
 
 ## Certifications
